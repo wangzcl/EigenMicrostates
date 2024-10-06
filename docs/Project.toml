@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+EigenMicrostates = "3f0bcdce-07ad-4b93-827e-c3194f11599a"
